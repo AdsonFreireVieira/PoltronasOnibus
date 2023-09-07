@@ -1,2 +1,5 @@
 # PoltronasOnibus
-Praticas  java algotirmo
+Praticas algoritimo java 
+
+# Sobre
+Pequeno Projeto escolha de Poltronas Simples
